@@ -1,0 +1,8 @@
+Olá equipe,
+
+Por favor, entrem em contato com maria.silva@example.com ou com o RH em hr@company.com.br.
+
+IDs de funcionários pendentes de validação:
+ABC-1234, AB1-2345, XYZ-9999.
+
+Obrigado!
